@@ -1,1 +1,113 @@
 # Logfile created on 2013-11-05 16:20:39 +0900 by logger.rb/36483
+D, [2013-11-05T16:56:17.991142 #11640] DEBUG -- : Invalid CSS after "/* universal */": expected selector or at-rule, was "$grayLight: #999;"
+  (in /Users/zipws07/Documents/rails/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss:4)
+D, [2013-11-05T16:56:17.994902 #11640] DEBUG -- : ["app/assets/stylesheets/custom.css.scss:4", "app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__343617200613506145_70331750994640'"]
+D, [2013-11-05T17:23:12.502042 #11972] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/show.html.erb:3: syntax error, unexpected tIVAR, expecting ')'
+...er.append=( @gravatar_for @user );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T17:23:12.506044 #11972] DEBUG -- : []
+D, [2013-11-05T17:23:12.674273 #11972] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/show.html.erb:3: syntax error, unexpected tIVAR, expecting ')'
+...er.append=( @gravatar_for @user );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T17:23:12.678245 #11972] DEBUG -- : []
+D, [2013-11-05T17:29:09.018079 #12018] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/show.html.erb:3: syntax error, unexpected tIVAR, expecting ')'
+...er.append=( @gravatar_for @user );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T17:29:09.022125 #12018] DEBUG -- : []
+D, [2013-11-05T17:29:09.126226 #12018] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/show.html.erb:3: syntax error, unexpected tIVAR, expecting ')'
+...er.append=( @gravatar_for @user );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T17:29:09.130660 #12018] DEBUG -- : []
+D, [2013-11-05T17:29:17.905704 #11640] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/show.html.erb:3: syntax error, unexpected tIVAR, expecting ')'
+...er.append=( @gravatar_for @user );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T17:29:17.908489 #11640] DEBUG -- : []
+D, [2013-11-05T17:29:59.202165 #11640] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/show.html.erb:3: syntax error, unexpected tIVAR, expecting ')'
+...er.append=( @gravatar_for @user );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T17:29:59.204950 #11640] DEBUG -- : []
+D, [2013-11-05T17:30:03.522348 #11640] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/show.html.erb:3: syntax error, unexpected tIVAR, expecting ')'
+...er.append=( @gravatar_for @user );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T17:30:03.525152 #11640] DEBUG -- : []
+D, [2013-11-05T17:30:24.406162 #11640] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/show.html.erb:3: syntax error, unexpected tIVAR, expecting ')'
+...er.append=( @gravatar_for @user );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T17:30:24.408971 #11640] DEBUG -- : []
+D, [2013-11-05T17:31:02.887437 #12030] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/show.html.erb:3: syntax error, unexpected tIVAR, expecting ')'
+...er.append=( @gravatar_for @user );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T17:31:02.891384 #12030] DEBUG -- : []
+D, [2013-11-05T17:31:03.055262 #12030] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/show.html.erb:3: syntax error, unexpected tIVAR, expecting ')'
+...er.append=( @gravatar_for @user );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T17:31:03.059138 #12030] DEBUG -- : []
+D, [2013-11-05T17:31:30.114251 #11640] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/show.html.erb:3: syntax error, unexpected tIVAR, expecting ')'
+...er.append=( @gravatar_for @user );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T17:31:30.117074 #11640] DEBUG -- : []
+D, [2013-11-05T17:32:26.860889 #11640] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/show.html.erb:3: syntax error, unexpected tIVAR, expecting ')'
+...fer.append=( @gravatar_for@user );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T17:32:26.863645 #11640] DEBUG -- : []
+D, [2013-11-05T17:34:00.935916 #11640] DEBUG -- : undefined method `name' for nil:NilClass
+D, [2013-11-05T17:34:00.938873 #11640] DEBUG -- : ["app/views/users/show.html.erb:1:in `_app_views_users_show_html_erb___4292445495852000316_70331753202300'"]
+D, [2013-11-05T17:34:17.273458 #11640] DEBUG -- : undefined local variable or method `user' for #<#<Class:0x007feec2db94e0>:0x007feec6240d58>
+D, [2013-11-05T17:34:17.276367 #11640] DEBUG -- : ["app/views/users/show.html.erb:1:in `_app_views_users_show_html_erb___4292445495852000316_70331751619360'"]
+D, [2013-11-05T17:34:53.742529 #11640] DEBUG -- : undefined method `put' for #<UsersController:0x007feec6250230>
+D, [2013-11-05T17:34:53.744737 #11640] DEBUG -- : ["app/controllers/users_controller.rb:7:in `show'"]
+D, [2013-11-05T17:35:02.323154 #11640] DEBUG -- : undefined method `put' for #<UsersController:0x007feec66322b8>
+D, [2013-11-05T17:35:02.325195 #11640] DEBUG -- : ["app/controllers/users_controller.rb:7:in `show'"]
+D, [2013-11-05T17:36:26.920748 #11640] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/helpers/users_helper.rb:3: syntax error, unexpected '(', expecting :: or '.'
+	def @gravatar_for(user)
+	                  ^
+/Users/zipws07/Documents/rails/rails_projects/sample_app/app/helpers/users_helper.rb:8: syntax error, unexpected keyword_end, expecting end-of-input
+D, [2013-11-05T17:36:26.923010 #11640] DEBUG -- : ["app/controllers/application_controller.rb:1:in `<top (required)>'", "app/controllers/users_controller.rb:1:in `<top (required)>'"]
+D, [2013-11-05T17:36:38.875243 #11640] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/show.html.erb:3: syntax error, unexpected tIVAR, expecting ')'
+...er.append=( @gravatar_for @user );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T17:36:38.878459 #11640] DEBUG -- : []
+D, [2013-11-05T17:49:10.612626 #11640] DEBUG -- : Invalid CSS after "...olid $grayLight": expected ";", was "&:first-child {"
+  (in /Users/zipws07/Documents/rails/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss:125)
+D, [2013-11-05T17:49:10.616865 #11640] DEBUG -- : ["app/assets/stylesheets/custom.css.scss:125", "app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__343617200613506145_70331750994640'"]
+D, [2013-11-05T18:01:43.725965 #12103] DEBUG -- : First argument in form cannot contain nil or be empty
+D, [2013-11-05T18:01:43.730075 #12103] DEBUG -- : ["app/views/users/new.html.erb:6:in `_app_views_users_new_html_erb__1537257552644213059_70097243467260'"]
+D, [2013-11-05T18:01:43.824662 #12103] DEBUG -- : First argument in form cannot contain nil or be empty
+D, [2013-11-05T18:01:43.829397 #12103] DEBUG -- : ["app/views/users/new.html.erb:6:in `_app_views_users_new_html_erb__1537257552644213059_70097243467260'"]
+D, [2013-11-05T18:10:07.588030 #11640] DEBUG -- : Invalid CSS after "  margin-bottom": expected ";", was ": 15px;"
+  (in /Users/zipws07/Documents/rails/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss:154)
+D, [2013-11-05T18:10:07.593728 #11640] DEBUG -- : ["app/assets/stylesheets/custom.css.scss:154", "app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__343617200613506145_70331750994640'"]
+D, [2013-11-05T18:12:39.204983 #11640] DEBUG -- : ActiveModel::ForbiddenAttributesError
+D, [2013-11-05T18:12:39.207108 #11640] DEBUG -- : ["app/controllers/users_controller.rb:10:in `create'"]
+D, [2013-11-05T18:17:14.983790 #11640] DEBUG -- : ActiveModel::ForbiddenAttributesError
+D, [2013-11-05T18:17:14.985996 #11640] DEBUG -- : ["app/controllers/users_controller.rb:10:in `create'"]
+D, [2013-11-05T18:17:24.917399 #11640] DEBUG -- : Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html, :xml], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+  * "/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views"
+
+D, [2013-11-05T18:17:24.920695 #11640] DEBUG -- : ["app/views/users/new.html.erb:7:in `block in _app_views_users_new_html_erb___2038509230388765320_70331753892060'", "app/views/users/new.html.erb:6:in `_app_views_users_new_html_erb___2038509230388765320_70331753892060'"]
+D, [2013-11-05T18:17:25.010664 #11640] DEBUG -- : Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+  * "/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views"
+
+D, [2013-11-05T18:17:25.021608 #11640] DEBUG -- : ["app/views/users/new.html.erb:7:in `block in _app_views_users_new_html_erb___2038509230388765320_70331755122140'", "app/views/users/new.html.erb:6:in `_app_views_users_new_html_erb___2038509230388765320_70331755122140'"]
+D, [2013-11-05T18:18:29.892560 #11640] DEBUG -- : Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+  * "/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views"
+
+D, [2013-11-05T18:18:29.895959 #11640] DEBUG -- : ["app/views/users/new.html.erb:7:in `block in _app_views_users_new_html_erb___2038509230388765320_70331755122140'", "app/views/users/new.html.erb:6:in `_app_views_users_new_html_erb___2038509230388765320_70331755122140'"]
+D, [2013-11-05T18:19:13.743361 #12158] DEBUG -- : Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+  * "/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views"
+
+D, [2013-11-05T18:19:13.747932 #12158] DEBUG -- : ["app/views/users/new.html.erb:7:in `block in _app_views_users_new_html_erb__4315595728078937558_70355914076600'", "app/views/users/new.html.erb:6:in `_app_views_users_new_html_erb__4315595728078937558_70355914076600'"]
+D, [2013-11-05T18:19:13.829991 #12158] DEBUG -- : Missing partial shared/error_messages with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+  * "/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views"
+
+D, [2013-11-05T18:19:13.835266 #12158] DEBUG -- : ["app/views/users/new.html.erb:7:in `block in _app_views_users_new_html_erb__4315595728078937558_70355914076600'", "app/views/users/new.html.erb:6:in `_app_views_users_new_html_erb__4315595728078937558_70355914076600'"]
+D, [2013-11-05T18:21:01.818853 #12167] DEBUG -- : ActiveModel::ForbiddenAttributesError
+D, [2013-11-05T18:21:01.822158 #12167] DEBUG -- : ["app/controllers/users_controller.rb:10:in `create'"]
+D, [2013-11-05T18:21:01.916820 #12167] DEBUG -- : ActiveModel::ForbiddenAttributesError
+D, [2013-11-05T18:21:01.920055 #12167] DEBUG -- : ["app/controllers/users_controller.rb:10:in `create'"]
+D, [2013-11-05T18:21:55.166837 #11640] DEBUG -- : ActiveModel::ForbiddenAttributesError
+D, [2013-11-05T18:21:55.168986 #11640] DEBUG -- : ["app/controllers/users_controller.rb:10:in `create'"]
+D, [2013-11-05T18:27:19.130789 #11640] DEBUG -- : ActiveModel::ForbiddenAttributesError
+D, [2013-11-05T18:27:19.132947 #11640] DEBUG -- : ["app/controllers/users_controller.rb:10:in `create'"]
+D, [2013-11-05T18:27:49.850618 #11640] DEBUG -- : ActiveModel::ForbiddenAttributesError
+D, [2013-11-05T18:27:49.858685 #11640] DEBUG -- : ["app/controllers/users_controller.rb:10:in `create'"]

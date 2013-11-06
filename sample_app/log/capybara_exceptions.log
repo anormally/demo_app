@@ -239,3 +239,203 @@ D, [2013-11-05T19:58:16.407036 #12492] DEBUG -- : /Users/zipws07/Documents/rails
 ...( link_to "Sign in" signin_path );@output_buffer.safe_append...
 ...                               ^
 D, [2013-11-05T19:58:16.411298 #12492] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1377730305485327357_70279675317360'"]
+D, [2013-11-06T11:35:37.826788 #16706] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:18: syntax error, unexpected ':'
+...utput_buffer.append=( f.label : password_confirmation, "Conf...
+...                               ^
+/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:18: syntax error, unexpected ')', expecting :: or '[' or '.'
+...firmation, "Confirm Password" );@output_buffer.safe_append='
+...                               ^
+/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:22: syntax error, unexpected keyword_end, expecting ')'
+';		 end 
+  		    ^
+/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:28: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:30: syntax error, unexpected keyword_end, expecting ')'
+D, [2013-11-06T11:35:37.830877 #16706] DEBUG -- : []
+D, [2013-11-06T11:35:37.976172 #16706] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:18: syntax error, unexpected ':'
+...utput_buffer.append=( f.label : password_confirmation, "Conf...
+...                               ^
+/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:18: syntax error, unexpected ')', expecting :: or '[' or '.'
+...firmation, "Confirm Password" );@output_buffer.safe_append='
+...                               ^
+/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:22: syntax error, unexpected keyword_end, expecting ')'
+';		 end 
+  		    ^
+/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:28: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:30: syntax error, unexpected keyword_end, expecting ')'
+D, [2013-11-06T11:35:37.980181 #16706] DEBUG -- : []
+D, [2013-11-06T11:35:38.061724 #16706] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:18: syntax error, unexpected ':'
+...utput_buffer.append=( f.label : password_confirmation, "Conf...
+...                               ^
+/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:18: syntax error, unexpected ')', expecting :: or '[' or '.'
+...firmation, "Confirm Password" );@output_buffer.safe_append='
+...                               ^
+/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:22: syntax error, unexpected keyword_end, expecting ')'
+';		 end 
+  		    ^
+/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:28: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:30: syntax error, unexpected keyword_end, expecting ')'
+D, [2013-11-06T11:35:38.066384 #16706] DEBUG -- : []
+D, [2013-11-06T11:40:03.219616 #16460] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:18: syntax error, unexpected ':'
+...utput_buffer.append=( f.label : password_confirmation, "Conf...
+...                               ^
+/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:18: syntax error, unexpected ')', expecting :: or '[' or '.'
+...firmation, "Confirm Password" );@output_buffer.safe_append='
+...                               ^
+/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:22: syntax error, unexpected keyword_end, expecting ')'
+';		 end 
+  		    ^
+/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:28: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/edit.html.erb:30: syntax error, unexpected keyword_end, expecting ')'
+D, [2013-11-06T11:40:03.222401 #16460] DEBUG -- : []
+D, [2013-11-06T12:19:24.915570 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:24.918340 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:25.045158 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:25.048032 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:25.115076 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:25.117996 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:25.242865 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:25.245748 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:25.311170 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:25.314020 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:25.436353 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:25.439023 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:25.584587 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:25.587778 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:25.664393 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:25.667623 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:25.745715 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:25.748908 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:25.826853 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:25.829563 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:25.973193 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:25.975942 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:26.047280 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:26.050020 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:26.127987 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:26.131166 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:26.265204 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:26.268535 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:26.343028 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:26.345779 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:26.418108 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:26.421292 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:26.986845 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:26.990776 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:27.158553 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:27.161482 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:27.259647 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:27.263158 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:27.364735 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:27.369873 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:27.534164 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:27.537092 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:27.641812 #16761] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:27.644883 #16761] DEBUG -- : []
+D, [2013-11-06T12:19:40.013757 #16460] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/controllers/users_controller.rb:41: syntax error, unexpected end-of-input, expecting keyword_end
+D, [2013-11-06T12:19:40.015589 #16460] DEBUG -- : []
+D, [2013-11-06T13:14:37.186819 #16828] DEBUG -- : param not found: user
+D, [2013-11-06T13:14:37.190340 #16828] DEBUG -- : ["app/controllers/users_controller.rb:38:in `user_params'", "app/controllers/users_controller.rb:26:in `update'"]
+D, [2013-11-06T13:16:32.590198 #16837] DEBUG -- : param not found: user
+D, [2013-11-06T13:16:32.593149 #16837] DEBUG -- : ["app/controllers/users_controller.rb:38:in `user_params'", "app/controllers/users_controller.rb:26:in `update'"]
+D, [2013-11-06T13:17:51.015353 #16853] DEBUG -- : param not found: user
+D, [2013-11-06T13:17:51.018313 #16853] DEBUG -- : ["app/controllers/users_controller.rb:38:in `user_params'", "app/controllers/users_controller.rb:26:in `update'"]
+D, [2013-11-06T13:20:29.784967 #16861] DEBUG -- : param not found: user
+D, [2013-11-06T13:20:29.788355 #16861] DEBUG -- : ["app/controllers/users_controller.rb:38:in `user_params'", "app/controllers/users_controller.rb:26:in `update'"]
+D, [2013-11-06T13:28:11.058872 #16873] DEBUG -- : param not found: user
+D, [2013-11-06T13:28:11.061908 #16873] DEBUG -- : ["app/controllers/users_controller.rb:38:in `user_params'", "app/controllers/users_controller.rb:26:in `update'"]
+D, [2013-11-06T13:34:04.598454 #16885] DEBUG -- : param not found: user
+D, [2013-11-06T13:34:04.601474 #16885] DEBUG -- : ["app/controllers/users_controller.rb:38:in `user_params'", "app/controllers/users_controller.rb:26:in `update'"]
+D, [2013-11-06T13:36:51.602309 #16893] DEBUG -- : param not found: user
+D, [2013-11-06T13:36:51.605327 #16893] DEBUG -- : ["app/controllers/users_controller.rb:38:in `user_params'", "app/controllers/users_controller.rb:26:in `update'"]
+D, [2013-11-06T13:45:02.073179 #16918] DEBUG -- : param not found: user
+D, [2013-11-06T13:45:02.076188 #16918] DEBUG -- : ["app/controllers/users_controller.rb:38:in `user_params'", "app/controllers/users_controller.rb:26:in `update'"]
+D, [2013-11-06T13:48:47.404157 #16929] DEBUG -- : undefined local variable or method `sigin_url' for #<UsersController:0x007fc54dfcc898>
+D, [2013-11-06T13:48:47.407416 #16929] DEBUG -- : ["app/controllers/users_controller.rb:44:in `signed_in_user'"]
+D, [2013-11-06T13:48:47.509159 #16929] DEBUG -- : undefined local variable or method `sigin_url' for #<UsersController:0x007fc54dd72d68>
+D, [2013-11-06T13:48:47.511969 #16929] DEBUG -- : ["app/controllers/users_controller.rb:44:in `signed_in_user'"]
+D, [2013-11-06T13:51:21.126976 #16820] DEBUG -- : undefined local variable or method `sigin_url' for #<UsersController:0x007fec437d02f8>
+D, [2013-11-06T13:51:21.128935 #16820] DEBUG -- : ["app/controllers/users_controller.rb:44:in `signed_in_user'"]
+D, [2013-11-06T14:00:29.567664 #16973] DEBUG -- : undefined method `now=' for nil:NilClass
+D, [2013-11-06T14:00:29.571060 #16973] DEBUG -- : ["app/controllers/sessions_controller.rb:11:in `create'"]
+D, [2013-11-06T14:00:29.714651 #16973] DEBUG -- : undefined method `now=' for nil:NilClass
+D, [2013-11-06T14:00:29.717892 #16973] DEBUG -- : ["app/controllers/sessions_controller.rb:11:in `create'"]
+D, [2013-11-06T14:00:29.793506 #16973] DEBUG -- : undefined method `now=' for nil:NilClass
+D, [2013-11-06T14:00:29.796743 #16973] DEBUG -- : ["app/controllers/sessions_controller.rb:11:in `create'"]
+D, [2013-11-06T14:23:45.998985 #17011] DEBUG -- : param not found: user
+D, [2013-11-06T14:23:46.001983 #17011] DEBUG -- : ["app/controllers/users_controller.rb:39:in `user_params'", "app/controllers/users_controller.rb:27:in `update'"]
+D, [2013-11-06T14:45:36.117846 #17092] DEBUG -- : undefined method `redirect_to_or' for #<SessionsController:0x007fcca5a6e0e0>
+D, [2013-11-06T14:45:36.121691 #17092] DEBUG -- : ["app/controllers/sessions_controller.rb:9:in `create'"]
+D, [2013-11-06T14:45:36.301933 #17092] DEBUG -- : undefined method `redirect_to_or' for #<SessionsController:0x007fcca5bf58f0>
+D, [2013-11-06T14:45:36.305207 #17092] DEBUG -- : ["app/controllers/sessions_controller.rb:9:in `create'"]
+D, [2013-11-06T14:45:36.413337 #17092] DEBUG -- : undefined method `redirect_to_or' for #<SessionsController:0x007fcca5aefc08>
+D, [2013-11-06T14:45:36.417136 #17092] DEBUG -- : ["app/controllers/sessions_controller.rb:9:in `create'"]
+D, [2013-11-06T14:45:36.579046 #17092] DEBUG -- : undefined method `redirect_to_or' for #<SessionsController:0x007fcca6a19f58>
+D, [2013-11-06T14:45:36.582901 #17092] DEBUG -- : ["app/controllers/sessions_controller.rb:9:in `create'"]
+D, [2013-11-06T14:45:36.754808 #17092] DEBUG -- : undefined method `redirect_to_or' for #<SessionsController:0x007fcca3c00748>
+D, [2013-11-06T14:45:36.758175 #17092] DEBUG -- : ["app/controllers/sessions_controller.rb:9:in `create'"]
+D, [2013-11-06T14:45:36.863816 #17092] DEBUG -- : undefined method `redirect_to_or' for #<SessionsController:0x007fcca5b44e10>
+D, [2013-11-06T14:45:36.867226 #17092] DEBUG -- : ["app/controllers/sessions_controller.rb:9:in `create'"]
+D, [2013-11-06T14:45:37.033219 #17092] DEBUG -- : undefined method `redirect_to_or' for #<SessionsController:0x007fcca6b37278>
+D, [2013-11-06T14:45:37.037185 #17092] DEBUG -- : ["app/controllers/sessions_controller.rb:9:in `create'"]
+D, [2013-11-06T14:45:37.735486 #17092] DEBUG -- : undefined method `redirect_to_or' for #<SessionsController:0x007fcca5ad6078>
+D, [2013-11-06T14:45:37.738802 #17092] DEBUG -- : ["app/controllers/sessions_controller.rb:9:in `create'"]
+D, [2013-11-06T14:45:37.920321 #17092] DEBUG -- : undefined method `redirect_to_or' for #<SessionsController:0x007fcca3d45158>
+D, [2013-11-06T14:45:37.923715 #17092] DEBUG -- : ["app/controllers/sessions_controller.rb:9:in `create'"]
+D, [2013-11-06T14:45:38.101371 #17092] DEBUG -- : undefined method `redirect_to_or' for #<SessionsController:0x007fcca6bcccd8>
+D, [2013-11-06T14:45:38.104637 #17092] DEBUG -- : ["app/controllers/sessions_controller.rb:9:in `create'"]
+D, [2013-11-06T14:45:38.222280 #17092] DEBUG -- : undefined method `redirect_to_or' for #<SessionsController:0x007fcca5b6d400>
+D, [2013-11-06T14:45:38.225581 #17092] DEBUG -- : ["app/controllers/sessions_controller.rb:9:in `create'"]
+D, [2013-11-06T14:45:38.403819 #17092] DEBUG -- : undefined method `redirect_to_or' for #<SessionsController:0x007fcca6a898f8>
+D, [2013-11-06T14:45:38.407135 #17092] DEBUG -- : ["app/controllers/sessions_controller.rb:9:in `create'"]
+D, [2013-11-06T14:45:38.585481 #17092] DEBUG -- : undefined method `redirect_to_or' for #<SessionsController:0x007fcca5a05270>
+D, [2013-11-06T14:45:38.588827 #17092] DEBUG -- : ["app/controllers/sessions_controller.rb:9:in `create'"]
+D, [2013-11-06T14:45:38.765177 #17092] DEBUG -- : undefined method `redirect_to_or' for #<SessionsController:0x007fcca6c17f58>
+D, [2013-11-06T14:45:38.768441 #17092] DEBUG -- : ["app/controllers/sessions_controller.rb:9:in `create'"]
+D, [2013-11-06T14:45:38.888924 #17092] DEBUG -- : undefined method `redirect_to_or' for #<SessionsController:0x007fcca5b8f6b8>
+D, [2013-11-06T14:45:38.892226 #17092] DEBUG -- : ["app/controllers/sessions_controller.rb:9:in `create'"]
+D, [2013-11-06T14:45:39.070369 #17092] DEBUG -- : undefined method `redirect_to_or' for #<SessionsController:0x007fcca5acfbd8>
+D, [2013-11-06T14:45:39.073683 #17092] DEBUG -- : ["app/controllers/sessions_controller.rb:9:in `create'"]
+D, [2013-11-06T15:24:31.251693 #17145] DEBUG -- : undefined method `all?' for #<Class:0x007fd0cae47e90>
+D, [2013-11-06T15:24:31.254926 #17145] DEBUG -- : ["app/controllers/users_controller.rb:6:in `index'"]
+D, [2013-11-06T15:24:31.531501 #17145] DEBUG -- : undefined method `all?' for #<Class:0x007fd0cae47e90>
+D, [2013-11-06T15:24:31.534626 #17145] DEBUG -- : ["app/controllers/users_controller.rb:6:in `index'"]
+D, [2013-11-06T15:24:31.648884 #17145] DEBUG -- : undefined method `all?' for #<Class:0x007fd0cae47e90>
+D, [2013-11-06T15:24:31.651859 #17145] DEBUG -- : ["app/controllers/users_controller.rb:6:in `index'"]
+D, [2013-11-06T15:24:31.859564 #17145] DEBUG -- : undefined method `all?' for #<Class:0x007fd0cae47e90>
+D, [2013-11-06T15:24:31.862643 #17145] DEBUG -- : ["app/controllers/users_controller.rb:6:in `index'"]
+D, [2013-11-06T15:26:21.623205 #16820] DEBUG -- : undefined method `all?' for #<Class:0x007fec437a35f0>
+D, [2013-11-06T15:26:21.625508 #16820] DEBUG -- : ["app/controllers/users_controller.rb:6:in `index'"]
+D, [2013-11-06T15:26:21.704190 #16820] DEBUG -- : undefined method `all?' for #<Class:0x007fec437a35f0>
+D, [2013-11-06T15:26:21.706722 #16820] DEBUG -- : ["app/controllers/users_controller.rb:6:in `index'"]
+D, [2013-11-06T15:27:58.359442 #16820] DEBUG -- : wrong number of arguments (2 for 1)
+D, [2013-11-06T15:27:58.362349 #16820] DEBUG -- : ["app/helpers/users_helper.rb:3:in `gravatar_for'", "app/views/users/index.html.erb:7:in `block in _app_views_users_index_html_erb__4584831142082127708_70326338820580'", "app/views/users/index.html.erb:5:in `_app_views_users_index_html_erb__4584831142082127708_70326338820580'"]
+D, [2013-11-06T15:30:12.950320 #16820] DEBUG -- : wrong number of arguments (2 for 1)
+D, [2013-11-06T15:30:12.954196 #16820] DEBUG -- : ["app/helpers/users_helper.rb:3:in `gravatar_for'", "app/views/users/index.html.erb:7:in `block in _app_views_users_index_html_erb__4584831142082127708_70326374383520'", "app/views/users/index.html.erb:5:in `_app_views_users_index_html_erb__4584831142082127708_70326374383520'"]
+D, [2013-11-06T15:30:37.158115 #16820] DEBUG -- : wrong number of arguments (2 for 1)
+D, [2013-11-06T15:30:37.161130 #16820] DEBUG -- : ["app/helpers/users_helper.rb:3:in `gravatar_for'", "app/views/users/index.html.erb:7:in `block in _app_views_users_index_html_erb__4584831142082127708_70326374383520'", "app/views/users/index.html.erb:5:in `_app_views_users_index_html_erb__4584831142082127708_70326374383520'"]
+D, [2013-11-06T15:30:46.269866 #17163] DEBUG -- : wrong number of arguments (2 for 1)
+D, [2013-11-06T15:30:46.273806 #17163] DEBUG -- : ["app/helpers/users_helper.rb:3:in `gravatar_for'", "app/views/users/index.html.erb:7:in `block in _app_views_users_index_html_erb___2967390464217904603_70266455578440'", "app/views/users/index.html.erb:5:in `_app_views_users_index_html_erb___2967390464217904603_70266455578440'"]
+D, [2013-11-06T15:30:46.402142 #17163] DEBUG -- : wrong number of arguments (2 for 1)
+D, [2013-11-06T15:30:46.406171 #17163] DEBUG -- : ["app/helpers/users_helper.rb:3:in `gravatar_for'", "app/views/users/index.html.erb:7:in `block in _app_views_users_index_html_erb___2967390464217904603_70266455578440'", "app/views/users/index.html.erb:5:in `_app_views_users_index_html_erb___2967390464217904603_70266455578440'"]
+D, [2013-11-06T15:30:46.610805 #17163] DEBUG -- : wrong number of arguments (2 for 1)
+D, [2013-11-06T15:30:46.614709 #17163] DEBUG -- : ["app/helpers/users_helper.rb:3:in `gravatar_for'", "app/views/users/index.html.erb:7:in `block in _app_views_users_index_html_erb___2967390464217904603_70266455578440'", "app/views/users/index.html.erb:5:in `_app_views_users_index_html_erb___2967390464217904603_70266455578440'"]
+D, [2013-11-06T15:31:15.145702 #16820] DEBUG -- : wrong number of arguments (2 for 1)
+D, [2013-11-06T15:31:15.148580 #16820] DEBUG -- : ["app/helpers/users_helper.rb:3:in `gravatar_for'", "app/views/users/index.html.erb:7:in `block in _app_views_users_index_html_erb__4584831142082127708_70326339371700'", "app/views/users/index.html.erb:5:in `_app_views_users_index_html_erb__4584831142082127708_70326339371700'"]
+D, [2013-11-06T15:31:15.230780 #16820] DEBUG -- : wrong number of arguments (2 for 1)
+D, [2013-11-06T15:31:15.233829 #16820] DEBUG -- : ["app/helpers/users_helper.rb:3:in `gravatar_for'", "app/views/users/index.html.erb:7:in `block in _app_views_users_index_html_erb__4584831142082127708_70326374383520'", "app/views/users/index.html.erb:5:in `_app_views_users_index_html_erb__4584831142082127708_70326374383520'"]
+D, [2013-11-06T15:33:06.466322 #16820] DEBUG -- : wrong number of arguments (2 for 1)
+D, [2013-11-06T15:33:06.469281 #16820] DEBUG -- : ["app/helpers/users_helper.rb:3:in `gravatar_for'", "app/views/users/index.html.erb:7:in `block in _app_views_users_index_html_erb__4584831142082127708_70326338798600'", "app/views/users/index.html.erb:5:in `_app_views_users_index_html_erb__4584831142082127708_70326338798600'"]
+D, [2013-11-06T15:33:35.495050 #16820] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/users/index.html.erb:7: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+...end=( gravatar_for user, size :52 );@output_buffer.safe_appe...
+...                               ^
+D, [2013-11-06T15:33:35.497834 #16820] DEBUG -- : []
+D, [2013-11-06T16:07:43.902690 #17289] DEBUG -- : undefined method `paginate' for #<Class:0x007fd2b36e9140>
+D, [2013-11-06T16:07:43.904679 #17289] DEBUG -- : ["app/controllers/users_controller.rb:6:in `index'"]
+D, [2013-11-06T16:13:54.549050 #17289] DEBUG -- : undefined method `paginate' for #<Class:0x007fd2b36e9140>
+D, [2013-11-06T16:13:54.551119 #17289] DEBUG -- : ["app/controllers/users_controller.rb:6:in `index'"]
+D, [2013-11-06T16:13:57.045050 #17289] DEBUG -- : undefined method `paginate' for #<Class:0x007fd2b36e9140>
+D, [2013-11-06T16:13:57.047438 #17289] DEBUG -- : ["app/controllers/users_controller.rb:6:in `index'"]
+D, [2013-11-06T16:13:58.920964 #17289] DEBUG -- : undefined method `paginate' for #<Class:0x007fd2b36e9140>
+D, [2013-11-06T16:13:58.922997 #17289] DEBUG -- : ["app/controllers/users_controller.rb:6:in `index'"]
+D, [2013-11-06T16:14:00.935138 #17289] DEBUG -- : undefined method `paginate' for #<Class:0x007fd2b36e9140>
+D, [2013-11-06T16:14:00.937288 #17289] DEBUG -- : ["app/controllers/users_controller.rb:6:in `index'"]

@@ -111,3 +111,131 @@ D, [2013-11-05T18:27:19.130789 #11640] DEBUG -- : ActiveModel::ForbiddenAttribut
 D, [2013-11-05T18:27:19.132947 #11640] DEBUG -- : ["app/controllers/users_controller.rb:10:in `create'"]
 D, [2013-11-05T18:27:49.850618 #11640] DEBUG -- : ActiveModel::ForbiddenAttributesError
 D, [2013-11-05T18:27:49.858685 #11640] DEBUG -- : ["app/controllers/users_controller.rb:10:in `create'"]
+D, [2013-11-05T19:04:02.879408 #12339] DEBUG -- : Missing template sessions/new, application/new with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+  * "/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views"
+
+D, [2013-11-05T19:04:02.883092 #12339] DEBUG -- : []
+D, [2013-11-05T19:04:02.932673 #12339] DEBUG -- : Missing template sessions/new, application/new with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+  * "/Users/zipws07/Documents/rails/rails_projects/sample_app/app/views"
+
+D, [2013-11-05T19:04:02.936451 #12339] DEBUG -- : []
+D, [2013-11-05T19:52:03.508838 #12475] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:52:03.513088 #12475] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1612867618932806799_70235370456580'"]
+D, [2013-11-05T19:52:03.645147 #12475] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:52:03.650135 #12475] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1612867618932806799_70235370456580'"]
+D, [2013-11-05T19:52:03.719628 #12475] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:52:03.724099 #12475] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1612867618932806799_70235370456580'"]
+D, [2013-11-05T19:52:03.809236 #12475] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:52:03.813701 #12475] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1612867618932806799_70235370456580'"]
+D, [2013-11-05T19:52:03.946193 #12475] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:52:03.950531 #12475] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1612867618932806799_70235370456580'"]
+D, [2013-11-05T19:52:04.043436 #12475] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:52:04.047611 #12475] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1612867618932806799_70235370456580'"]
+D, [2013-11-05T19:52:04.196921 #12475] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:52:04.201191 #12475] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1612867618932806799_70235370456580'"]
+D, [2013-11-05T19:52:04.266056 #12475] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:52:04.270289 #12475] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1612867618932806799_70235370456580'"]
+D, [2013-11-05T19:52:04.336927 #12475] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:52:04.341178 #12475] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1612867618932806799_70235370456580'"]
+D, [2013-11-05T19:52:04.463769 #12475] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:52:04.467939 #12475] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1612867618932806799_70235370456580'"]
+D, [2013-11-05T19:52:04.614007 #12475] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:52:04.618335 #12475] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1612867618932806799_70235370456580'"]
+D, [2013-11-05T19:52:04.683324 #12475] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:52:04.687502 #12475] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1612867618932806799_70235370456580'"]
+D, [2013-11-05T19:52:04.832707 #12475] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:52:04.837080 #12475] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1612867618932806799_70235370456580'"]
+D, [2013-11-05T19:52:04.905927 #12475] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:52:04.910100 #12475] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1612867618932806799_70235370456580'"]
+D, [2013-11-05T19:58:14.734013 #12492] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:58:14.738251 #12492] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1377730305485327357_70279675317360'"]
+D, [2013-11-05T19:58:14.903251 #12492] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:58:14.908163 #12492] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1377730305485327357_70279675317360'"]
+D, [2013-11-05T19:58:15.002304 #12492] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:58:15.006818 #12492] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1377730305485327357_70279675317360'"]
+D, [2013-11-05T19:58:15.136485 #12492] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:58:15.140690 #12492] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1377730305485327357_70279675317360'"]
+D, [2013-11-05T19:58:15.216606 #12492] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:58:15.221581 #12492] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1377730305485327357_70279675317360'"]
+D, [2013-11-05T19:58:15.372324 #12492] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:58:15.377210 #12492] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1377730305485327357_70279675317360'"]
+D, [2013-11-05T19:58:15.452447 #12492] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:58:15.457329 #12492] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1377730305485327357_70279675317360'"]
+D, [2013-11-05T19:58:15.603249 #12492] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:58:15.607476 #12492] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1377730305485327357_70279675317360'"]
+D, [2013-11-05T19:58:15.678600 #12492] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:58:15.682725 #12492] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1377730305485327357_70279675317360'"]
+D, [2013-11-05T19:58:15.827371 #12492] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:58:15.831616 #12492] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1377730305485327357_70279675317360'"]
+D, [2013-11-05T19:58:15.902899 #12492] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:58:15.907092 #12492] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1377730305485327357_70279675317360'"]
+D, [2013-11-05T19:58:16.031734 #12492] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:58:16.036578 #12492] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1377730305485327357_70279675317360'"]
+D, [2013-11-05T19:58:16.102765 #12492] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:58:16.106901 #12492] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1377730305485327357_70279675317360'"]
+D, [2013-11-05T19:58:16.260792 #12492] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:58:16.265142 #12492] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1377730305485327357_70279675317360'"]
+D, [2013-11-05T19:58:16.334631 #12492] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:58:16.338885 #12492] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1377730305485327357_70279675317360'"]
+D, [2013-11-05T19:58:16.407036 #12492] DEBUG -- : /Users/zipws07/Documents/rails/rails_projects/sample_app/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+...( link_to "Sign in" signin_path );@output_buffer.safe_append...
+...                               ^
+D, [2013-11-05T19:58:16.411298 #12492] DEBUG -- : ["app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1377730305485327357_70279675317360'"]
